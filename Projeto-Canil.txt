@@ -1,0 +1,20 @@
+Criar um novo projeto no NODE-TS
+
+criar no github o projeto
+
+abir o terminal
+
+1º npm init
+
+2º tsc --init
+   configurar o tsconfig.json
+
+3º npm install express mustache-express dotenv
+
+4º npm install --save-dev @types/express @types/mustache-express @types/node
+
+depencências no projeto
+nodemon
+typecript
+ts-node
+
